@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509101f5781a6b7419206e05554e6132, type: 3}
+  m_Name: Forest
+  m_EditorClassIdentifier: 
+  biomeName: Forest
+  minHumidity: 0.2
+  maxHumidity: 0.7
+  minHeight: 0.3
+  maxHeight: 0.6
+  minTemp: -0.6
+  maxTemp: -0.3
+  surfaceBlock: ForestGrass
+  subSurfaceBlock: Dirt
+  plantAreaFrequency: 15
+  plantThreshold: 0.5
+  plantTrunkHeight: 4
+  octaves: 2
+  amplitude: 8
+  frequency: 1.02
+  lacunarity: 1.5
+  persistance: 0.4
