@@ -74,7 +74,7 @@ public static class BiomeMapValues
     public static readonly int treeSeedOffset = 4;
 
     //dec to get larger biomes
-    public static readonly float frequency = 0.1f;
+    public static readonly float frequency = 0.5f;
 
     //inc to get more blending(kepp between 1-5)
     public static readonly int biomeBlending = 3;
