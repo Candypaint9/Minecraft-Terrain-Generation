@@ -15,4 +15,6 @@
  Real-Time Terrain Modification: Supports dynamic editing of terrain, allowing users to modify the landscape interactively.
 
 # Screenshots
+![image](https://github.com/user-attachments/assets/c50eff13-bf53-48c7-96f4-f252c61e1da4)
+![image](https://github.com/user-attachments/assets/22dfdf49-816e-4e56-9a2f-8c03cdb3fc2b)
 
